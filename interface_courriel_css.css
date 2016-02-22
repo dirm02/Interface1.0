@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+.Tableau2{
+width:950px;
+height:440px;
+background-color:cyan;
+float:right;
+border:solid 1px blue;
+}
+
+.Tableau1 {
+border:solid 1px blue;
+background-color:cyan;
+width:600px;
+padding:20px;
+height:400px;
+float="left";
+}
