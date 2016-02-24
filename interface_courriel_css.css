@@ -1,25 +1,16 @@
-
-
-
-
-
-
-
-
-
 .Tableau2{
-width:950px;
-height:440px;
-background-color:cyan;
+width:500px;
+height:500px;
+background-color:white;
 float:right;
-border:solid 1px blue;
-}
-
-.Tableau1 {
-border:solid 1px blue;
-background-color:cyan;
-width:600px;
 padding:20px;
-height:400px;
+border:solid 1px white;
+}
+.Tableau1 {
+border:solid 1px ;
+background-image: url("img.jpg");
+width:500px;
+padding:20px;
+height:500px;
 float="left";
 }
